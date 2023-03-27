@@ -4,6 +4,9 @@ Analyzed eleven different datasets and combined them based on requirements using
 ## Database Schema
 <img width="559" alt="schema_diagram1" src="https://user-images.githubusercontent.com/108050278/228046983-3b4d1bb2-ec1b-4474-b26f-60b09d79fdb3.png">
 
+## Queries resolved
+![Queries resolved](https://user-images.githubusercontent.com/108050278/228049537-65ab337d-e53e-4fd8-b84b-41dac5734670.png)
+
 ## Tools
 PostgreSQL
 
